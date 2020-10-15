@@ -1,3 +1,9 @@
+A simple little choose your own adventure game I created with react to code creatively for 
+the weekly art club where the theme was weather.
+
+It is currently hosted @ http://react-cyoa-showcase.s3-website-ap-southeast-2.amazonaws.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
